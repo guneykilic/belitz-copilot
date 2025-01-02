@@ -1,2 +1,2 @@
-# iZec | Copilot
-Privacy Policy for iZec | Copilot Chrome Extension
+# belitz | copilot
+Privacy Policy for belitz | copilot Chrome Extension
