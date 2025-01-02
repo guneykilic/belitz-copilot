@@ -57,5 +57,5 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 # docs/_config.yml dosyası:
 theme: jekyll-theme-cayman
-title: iZec | Copilot Privacy Policy
-description: Privacy Policy for the iZec | Copilot Chrome Extension
+title: belitz | copilot Privacy Policy
+description: Privacy Policy for the belitz | copilot Chrome Extension
