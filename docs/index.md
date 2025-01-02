@@ -1,8 +1,4 @@
 # docs/index.md dosyası:
----
-layout: default
-title: belitz | copilot Privacy Policy
----
 
 # Privacy Policy for belitz | copilot
 
