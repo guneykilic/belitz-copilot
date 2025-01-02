@@ -1,15 +1,15 @@
 # docs/index.md dosyası:
 ---
 layout: default
-title: iZec | Copilot Privacy Policy
+title: belitz | copilot Privacy Policy
 ---
 
-# Privacy Policy for iZec | Copilot
+# Privacy Policy for belitz | copilot
 
-Last updated: December 9, 2024
+Last updated: January 2, 2024
 
 ## Overview
-iZec | Copilot ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
+belitz | copilot ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
 
 ## Information Collection
 Our extension collects and stores the following information:
@@ -56,7 +56,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: support@izec.ai
+- Email: sales@belitz.ai
 - Developer: Güneycan Kılıç
 
 # docs/_config.yml dosyası:
